@@ -274,13 +274,6 @@ Please note this is collection of courses on Science and math, please do not add
 	- [Math 371 - Second semester undergraduate abstract algebra (Fall 2014)](https://www.math.upenn.edu/~ted/371F14/hw-371SchedTab.html)
 	- [Math 602 - Abstract Algebra (Fall 2013)](https://www.math.upenn.edu/~ted/602F13/hw-602SchedTab.html)
 	- [Math 603 - Abstract Algebra (Spring 2014)](https://www.math.upenn.edu/~ted/603S14/hw-603SchedTab.html)
-
-
-
---------------------------------------------------
-
-## Chemistry
-- [CHEM 125A: FRESHMAN ORGANIC CHEMISTRY I, Yale University](http://oyc.yale.edu/chemistry/chem-125a)
 - [CHEM 125B: FRESHMAN ORGANIC CHEMISTRY II, Yale University](http://oyc.yale.edu/chemistry/chem-125b)
 
 --------------------------------------------------
